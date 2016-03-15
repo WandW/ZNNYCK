@@ -18,5 +18,10 @@
 	<string name="main_pm2.5_set_fail">PM2.5预警值设置失败</string>
 	<string name="main_normal">正常</string>
 	<string name="main_warning">预警</string>
-
+	<string name="welcome">欢迎进入智能农业管理系统</string>
+	<string name="login_user">请输入用户名</string>
+	<string name="login_pw">请输入密码</string>
+	<string name="login">登录</string>
+	<string name="setip">IP设置</string>
+	<string name="creat">新用户注册</string>
 </resources>
