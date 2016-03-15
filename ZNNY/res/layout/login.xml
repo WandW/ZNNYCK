@@ -28,6 +28,7 @@
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
                 android:text="@string/setip" 
                 android:textSize="40sp"/>
 
@@ -35,6 +36,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
                 android:text="@string/creat"
                 android:textSize="40sp" />
 
